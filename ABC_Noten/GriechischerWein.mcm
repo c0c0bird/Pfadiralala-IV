@@ -6,33 +6,36 @@ V:1 treble stafflines=5
 V:1
 L:1/4
 K:Eb
-z"Cm" !tenuto!G !tenuto!c !tenuto!e | [ge] [ge]/[ge]/ [ge] [ge] | [ae] [ge] [ge] f | e f g2- |"Eb" g .a/.g/ .f/.e/ d |
+% z"Cm" !tenuto!G !tenuto!c !tenuto!e | [ge] [ge]/[ge]/ [ge] [ge] | [ae] [ge] [ge] f | e f g2- |"Eb" g .a/.g/ .f/.e/ d | "Cm" c4 | 
 4
-"Cm" c4 | z"Cm" G, C E
-w: _ Es war schon dunkel 
+z"Cm" G, C E
+w: Es war schon 
+% w: Da sa-ßen 
 |:"Cm" [GE] [GE]/[GE]/ [GE] [GE] | [AE] G G F |"Eb" E F G2- |
 w: dun-kel als ich durch Vor-stadt-stras-sen heim-wärts ging.
+% w: Män-ner mit brau-nen Au-gen und mit schwarz-em Haar,
 G2 B/c/ B/A/ | B B, E G | [BG] [BG]/[BG]/ [BG] [BG] | [cG] B B A 
 w: ______ Da war ein Wirts-haus, aus dem das Licht noch auf den 
+% w: ______ und aus der Juke-box er-klang Musik, die fremd und
 |"Bb" G A F2- |
 w: Geh-steig schien.
+% w: süd-lich war.
 F4 | z ^G =G F |"Cm" E3/2 G/ F E |"G7" D3/2 F/ E D |"Cm" C2 [Gc]2 |
 w: _ Ich hat-te Zeit und mir war kalt, drum trat ich ein.
+% w: _ Als man mich sah, stand ein-er auf und lud mich ein.
 e2 g/a/ g/f/ | [gec]4 |1 z"Cm" G, C E :|2 z z G/A/ G/F/ | [GE]3 z 
 |:"Ab" [cA]2 [cA] [dB] | [ec]4 | z [ec]/[ec]/ [ec] [dB] | f e d c |"Eb" G2  [GE] [AE] |
 w: Grie-chi-scher Wein ist so wie das Blut der Er-de. Komm’, schenk dir
-w: Grie-chi-scher Wein, und die alt-ver-trau-ten Lie-der. Schenk’ noch mal
+% w: Grie-chi-scher Wein, und die alt-ver-trau-ten Lie-der. Schenk’ noch mal
 [BEG]4 | z [BG]/[BG]/ [BG] [AE] | [cE] [BE] 
 w: ein, und wenn ich dann trau-rig 
-w: ein, denn ich fühl’ die Sehn-sucht
+% w: ein, denn ich fühl’ die Sehn-sucht
 [AE] [GE] |"Bb" [FD]2 [FD] [GE] | [AF]4 | z [AF]/[AF]/ [AF] G | 
 w: wer-de liegt es dar-an, dass ich im-mer
-w:  wie-der, in die-ser Stadt werd’ ich im-mer
+% w: wie-der, in die-ser Stadt werd’ ich im-mer
 [BD] [AD] [GD] [FD] |1"Eb" [GE]4 | z [FD] [GE] [AF] | [BEG]4 :||
-w:  träu-me von da-heim. Du musst ver-zeih’n.
-w: nur ein Frem-der
-|2 "Eb" E4 || z2 F3/2 ^C/ |"Cm" C2 [cG]2 | e2 g/a/ g/f/ | [gec]2 .G/.A/ .G/.F/ |
-w:  sein, und al-lein.
-.G"Cm" G, C E ||"Cm" C2 G2 | c2 e2 | .[ge] .[ge]/.[ge]/ .[ge] .[ge] | 
-[af] [ge] [ge] [fd] |
-[ec] [fd] [g-e]2 |"Eb" [ge] .a/.g/ .f/.e/ d |"Cm" c4 |]]
+w: träu-me von da-heim. Du musst ver-zeih’n.
+% w: nur ein Frem-der
+2 "Eb" E4 | z2 F3/2 ^C/ |"Cm" C2 [cG]2 | e2 g/a/ g/f/ | [gec]4 ||
+% w: sein, und al-lein.
+
